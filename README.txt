@@ -1,32 +1,60 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+AXIOPISTOS ASSOCIATES PRIVATE LIMITED.
 
+This is the website of Axiopistos Associates Private Limited, a company based in Hyderabad, India which is into providing single-point marketing, consulting & sourcing solutions to our esteemed Clients located in India and overseas markets.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Business focuses on:
+• Power & Electric Infrastructure
+• Industrial Systems & Building Facilities
+• Defence & Aerospace Solutions
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Power & Electric Infrastructure:
+• Power Transformer
+• Distribution Transformer (including Dry Type Transformer)
+• Reactor
+• Gas Insulated Switchgear
+• Power Cables & Conductors
+• Circuit Breaker
+• Surge Arrestor
+• Control Panel
+• Solar Panel
+• Inverters
+• Turbines
+• Alternators
+• Diesel Generator Set
+• Compact Substation & other products
 
-(* = not included)
+Industrial Systems & Building Facilities:
+• CNC Machines
+• Process Automation (PLC, SCADA, DCS)
+• ERP Systems
+• IT Storage Systems
+• Building Management System
+• CCTV Systems
+• Access Control
+• Audio & Visual Equipment
+• UPS & other products
 
-AJ
-aj@lkn.io | @ajlkn
+Defence & Aerospace Solutions:
+• LMV Driving Simulators
+• HMV Driving Simulators
+• Armored Vehicle Driving Simulators
+• Weapon Firing Simulators
+• Flight Simulators
+• CBT Modules for Basic Military & Technical Training
+
 
 
 Credits:
+	
+	Design: HTML5
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Unsplash
 
 	Icons:
-		Font Awesome (fontawesome.io)
+		Font Awesome 
 
 	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		jQuery 
+		Scrollex 
+		Responsive Tools
