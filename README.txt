@@ -5,7 +5,6 @@ This is the website of Axiopistos Associates Private Limited, a company based in
 Business focuses on:
 • Power & Electric Infrastructure
 • Industrial Systems & Building Facilities
-• Defence & Aerospace Solutions
 
 Power & Electric Infrastructure:
 • Power Transformer
@@ -34,27 +33,6 @@ Industrial Systems & Building Facilities:
 • Audio & Visual Equipment
 • UPS & other products
 
-Defence & Aerospace Solutions:
-• LMV Driving Simulators
-• HMV Driving Simulators
-• Armored Vehicle Driving Simulators
-• Weapon Firing Simulators
-• Flight Simulators
-• CBT Modules for Basic Military & Technical Training
 
 
 
-Credits:
-	
-	Design: HTML5
-
-	Demo Images:
-		Unsplash
-
-	Icons:
-		Font Awesome 
-
-	Other:
-		jQuery 
-		Scrollex 
-		Responsive Tools
