@@ -4,7 +4,4 @@ Incorporated in 2019, the company is lead by experienced professionals with comm
 
 We serve businesses (startup’s, SME’s, large corporations), governments & public-sector companies located in Indian subcontinent, Africa & Europe. Axiopistos Associates (AXPS) is also planning to expand the market reach.
 
-With a resolve to be a true partner in the growth & progress of Clients & Partners/Associate Vendors, we operate in following business sectors:
-• Power & Electric Infrastructure
-• Industrial Systems & Building Facilities
-• Renewable Energy
+We operate with a resolve to be a true partner in the growth & progress of Clients & Partners/Associate Vendors.
